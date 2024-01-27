@@ -2,7 +2,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm majoring in <b>Computer Science & Engineering</b>.🚀<br/>
-  🧑‍💻&nbsp; I'm interested in Web service and AI</b>.💡<br/>
+  🧑‍💻&nbsp; I'm interested in Web and AI</b>.💡<br/>
   👊&nbsp; <b>Excitement and Creativity</b> is the thing that I always pursue.✨
 </p>
 
