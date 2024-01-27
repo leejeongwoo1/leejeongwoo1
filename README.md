@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20JEONGWOO's%20github.&fontSize=50&color=0:FFFF00,100:CCFF00&fontColor=000000"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20JEONGWOO's%20github.&fontSize=50&color=0:FFFF00,100:CCFF00&fontColor=000000"/></div>
 
 <p>
   👋&nbsp; Hi there! I'm majoring in <b>Computer Science & Engineering</b>.🚀<br/>
