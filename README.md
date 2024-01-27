@@ -36,7 +36,7 @@
   `2022.02` Admission to Kyung Hee Univ. Department of Computer Science & Engineering <br>
   `2022.12~2023.11` Executive of T.G.WinG, Academic Club of the Department of CSE, Kyung Hee Univ. <br>
   `2022.12~2023.11` Executive of student council, School of Computing, Kyung Hee Univ. <br>
-  `2023.2~2023.10` Data Analysis & Vision Intelligence LAB, Kyung Hee Univ <br>
+  `2023.2~2023.10` Data Analysis & Vision Intelligence LAB, Kyung Hee Univ. <br>
   `2024.1.15~2024.1.19` Completion of Silicon Valley Innovation & Startup Program at San Jose State University
 
 ## 📞 Contact
