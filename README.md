@@ -40,8 +40,9 @@
   `2024.1.15~2024.1.19` Completion of Silicon Valley Innovation & Startup Program at San Jose State University
 
 ## 📞 Contact
-<a href="https://www.instagram.com/hyeokseung_e/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/jeongwo0o_03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:juny1alex@gmail.com" target="_blank"><img src="https://img.shields.io/badge/juny1alex@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://bouncy-failing-c7a.notion.site/JEONGWOO-s-Notion-280991d2cafe4950ba0f4f18bd2ab7cf?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://backtothemoon123.tistory.com/" target="_blank"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/></a>
 
 
